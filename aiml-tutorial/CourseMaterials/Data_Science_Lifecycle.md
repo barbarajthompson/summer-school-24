@@ -1,4 +1,11 @@
 ## Data Science Workflow
+Data Science is much more than running models, and goes far beyond just reducing and plotting data. Data science is: 
+- understanding that how you ask your question determines your outcome
+- understanding what you “keep” in data reduction, but also what you discard
+- translating a domain problem into an information science problem, then translating the results back again
+- understanding why a result or decision was made can be more important than what the result was
+- varying your implementations to optimize a solution – faster machines allow you to “fail faster.”
+- finding the right tool for the job
 
 ### Data Science Lifecycles
 Practitioners of data science have studied best practices to maximize the probability of success. Most agree that "business understanding" or "subject matter expertise" is one of the key steps. And, of course, there is data wrangling, which can be expressed in a variety of ways. 
